@@ -8,7 +8,7 @@
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardocairessilva&show_icons=true&theme=dracula)
 
-## Tecnologias que utilizo no dia a dia
+## Tecnologias que utilizo:
 
 <div style="display: inline-block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -17,6 +17,8 @@
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img align="center" alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">   
 </div><br/><br/><br/>
 
 ## Últimos projetos feitos:
