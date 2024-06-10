@@ -28,4 +28,4 @@
 - [Formulário de login do facebook](https://eduardocairessilva.github.io/form-login-facebook/)<br/>
 - [Formulário de login do instagram](https://eduardocairessilva.github.io/form-login-instagram/)<br/>
 - [Formulário de esqueceu a senha do instagram](https://eduardocairessilva.github.io/form-forgotPassword-instagram/)
-- [Dashboard menu reactJS](https://eduardocairessilva.github.io/ProjetoDctree/)
+- [Dashboard style reactJS](https://eduardocairessilva.github.io/ProjetoDctree/)
